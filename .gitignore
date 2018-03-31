@@ -1,0 +1,7 @@
+*.egg-info*
+*.swp
+*.pyc
+/env/
+node_modules/
+__pycache__/
+vendor/
