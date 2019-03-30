@@ -9,13 +9,13 @@ Template project to start developing app with Flask as backend and React-Redux o
 
  * Backend:
 ```
-$ python -v venv env
+$ python3 -m venv env
 $ source env/bin/activate
 $ pip install -r requirements.txt
 ```
  * Frontend:
 ```
-$ cd my_pp/frontend
+$ cd my_app/frontend
 $ yarn install
 ```
 
